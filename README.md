@@ -173,8 +173,6 @@ Deploy instantly to [Vercel](https://vercel.com/):
 npm run build
 ```
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pranjalisr/next-js-shadcn-ui)
-
 
 ---
 
